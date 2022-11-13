@@ -58,6 +58,8 @@ nav ul li a:hover{
 .details h1{
     
     font-size: 50px;
+}
+.details .subheading{
     margin-bottom: 20px;
 }
 .details p{
