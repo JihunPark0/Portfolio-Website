@@ -16,10 +16,43 @@
     height: 100vh;
     background: white;
 }
+.nextpage img{
+    height: 70%;
+    position: absolute;
+    left: 5%;
+    top: 10%;
+}
 .nextpage .details{
     color: black;
+    position: relative;
+    top: 25%;
+    margin-top: 0;
     margin-left: 60%;
 }
+
+.pagethree{
+    position: relative;
+    width: 100%;
+    height: 100vh;
+    background: #2F2FA2;
+}
+.pagethree .details{
+    margin-top:0;
+    position: relative;
+    top: 13%;
+}
+.pagethree .images{
+    position:relative;
+    display:flex;
+    top: 8%;
+    height: 300px;
+    width:84%;
+    left:8%;
+    margin-top: 100px;
+    align-items: center;
+    justify-content: space-around;
+}
+
 nav{
     display:flex;
     width: 84%;
